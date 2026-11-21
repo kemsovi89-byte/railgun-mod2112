@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "railgun_strikes",
+  "name": "Railgun Strikes",
+  "version": "0.1.0",
+  "description": "Orbital strikes: railgun column, nuke crater, meteors. Commands: /railgun give|select|fire, /strike now.",
+  "authors": [
+    "you"
+  ],
+  "environment": "client",
+  "entry": "mixins/railgun_strikes"
+}
